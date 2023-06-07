@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        
+       
+body {
+  background-image: url("https://cdn.pixabay.com/photo/2017/01/24/10/58/sand-2005066_640.jpg");
+}
+       
+        </style>
+    
+</head>
+
+<body>
+    <header>
+      <h1>PORTFOLIO</h1>
+    </header>
+
+    <nav>
+      <ul>
+        <li><a href="https://brainstation.io/career-guides/what-is-web-development#:~:text=Web%20development%2C%20also%20known%20as,run%20online%20on%20a%20browser.">INTRODUCTION</a></li>
+        <li><a href="https://web.dev/">HOME</a></li>
+        <li><a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwinqvju-Kj_AhUXSCsKHWByAFMYABADGgJzZg&ohost=www.google.com&cid=CAESbeD2Leo07psY1lBI1PzLMcaKKHEorZQI-ZIMemmrFSDLzKUFSNnjCyNDQ82OieKKVxy1dzt7zfPJQlvgGnL1ZfNZAU7rmE9kRy8kl9-krGi_OsBe7Yg-3gYRj0TMwkqRRpge1__jq3QmFnDIsOk&sig=AOD64_0m5AonxdY8uVZ3agRDNH56ZFPhUA&q&adurl&ved=2ahUKEwi7tu_u-Kj_AhWi3TgGHY0gCk0Q0Qx6BAgIEAE">SERVICES</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      
+    </nav>
+    <main>
+      <article>
+        <h2>KNOW ME</h2>
+
+        <p>
+         <li style="border:2px solid DodgerBlue;" >HI everyone , myself SUMEDH KUMAR </li> 
+         <li style="border:2px solid Tomato;">I am 2nd year undergraduate</li>
+         <li style="border:2px solid Violet;">I am pursuing Civil engineering from IIT kanpur</li>
+         <li style="border:2px solid Tomato;">MY some of the hobbies are Athletics and cooking</li>
+         <li style="border:2px solid Violet;">I belong to prayagraj ,uttar pradesh</li>
+        </p>
+
+        <h3>DEDICATION</h3>
+
+        <p>
+            I strongly believe in the power of collaboration and lifelong learning. I am constantly seeking new challenges and striving for personal and professional growth. Through meaningful connections and engaging conversations, I am eager to exchange ideas, share knowledge, and contribute to a community that fosters innovation and positive change.
+        </p>
+
+        <p>
+            I am genuinely excited to be here and look forward to connecting with all of you. Please feel free to reach out to me with any questions or opportunities for collaboration. Thank you!"
+        </p>
+        <form>
+            <input type="test" name="q" placeholder="your name" />
+            <input type="submit" value="Go!" />
+          </form>
+
+      </article>
+    </main>
+    <footer>
+      <p>THANK YOU FOR GIVING YOUR TIME </p>
+    </footer>
+  </body>
+</html>
+
+      
+
+
+</body>
+</html>
